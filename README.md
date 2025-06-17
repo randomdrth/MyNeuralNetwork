@@ -1,4 +1,4 @@
-# Building a Neural Network from Scratch to Classify MNIST and Fashion-MNIST Datasets
+# Building a Neural Network from Scratch
 
 Welcome to my neural network implementation project! This notebook walks through the process of building, training, and evaluating a feedforward neural network from scratch using only NumPy.
 
