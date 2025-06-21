@@ -14,7 +14,7 @@ To explore the code and replicate the experiments:
    ```
 4. Run each cell sequentially. For the Fashion-MNIST portion, make sure to manually download the `.gz` files listed in the notebook and place them into a folder named `fashionMNIST`.
 
-## 🧠 Challenges I Faced
+## Challenges I Faced
 
 - **Gradient Stability**: Early in training, I encountered instability due to improper learning rate and weight initialization. I solved this by adjusting initialization scale and introducing learning rate decay.
 - **Backpropagation Bugs**: Implementing backwards propagation manually revealed a few subtle bugs, especially with ReLU gradients. Debugging involved comparing layer outputs across batches and validating gradients numerically.
@@ -22,7 +22,7 @@ To explore the code and replicate the experiments:
 
 ---
 
-## 📈 Evaluating my Model
+## Evaluating my Model
 
 ### MNIST Digits:
 
