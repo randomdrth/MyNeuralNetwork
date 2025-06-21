@@ -1,8 +1,9 @@
 # Building a Neural Network from Scratch
 
-In both my academic and professional settings, I have worked extensively with pre-built models from high-level libraries like TensorFlow and PyTorch. While these tools are efficient, they often abstract away the inner workings of the models—especially when it comes to fine-tuning or optimization.
+In both my academic and professional settings, I have worked extensively with pre-built models from high-level libraries like TensorFlow and PyTorch. While these tools are efficient, they often abstract away the inner workings of the models, especially when it comes to fine-tuning or optimization.
 
 This project is my effort to deepen my understanding of how neural networks really work under the hood. I intentionally avoided machine learning libraries and instead relied solely on `NumPy` to implement everything, from weight initialization and forward propagation to backpropagation and gradient updates.
+
 To explore the code and replicate the experiments:
 
 1. Clone or download this repository.
